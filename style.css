@@ -1,0 +1,20 @@
+a, li, p, td, th {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    color: #001e38;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    border: 5px solid #001e38;
+}
+
+table, td, th {
+    border: 2px solid #001e38;
+    border-collapse: collapse;
+}
